@@ -1,0 +1,12 @@
+header {
+    text-align: center;
+    color: steelblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.mainreps {
+    display: flex;
+}
+
+.reps {
+    margin: 20px;
+}
